@@ -1,6 +1,6 @@
-# Gnocchi de pommes de terre
+## Gnocchi de pommes de terre
 
-## Ingrédients
+### Ingrédients
 
 * 1kg de pommes de terre
 * 300g de farine
@@ -8,7 +8,7 @@
 * gros sel
 * sel, poivre
 
-## Procédé
+### Procédé
 
 1. Mettre le gros sel dans un plat. Laver, essuyer puis faire cuire les pommes de terre sur le lit de gros sel au four à 180°C.
 - Une fois cuite en les gardant très chaudes, les éplucher rapidement. Les passer au moulin à légumes.

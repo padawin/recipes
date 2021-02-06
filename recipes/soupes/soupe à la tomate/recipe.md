@@ -1,6 +1,6 @@
-# Soupe à la tomate
+## Soupe à la tomate
 
-## Ingrédients
+### Ingrédients
 
 * 2 tomates
 * 1 échalote
@@ -9,7 +9,7 @@
 * 2 œufs
 * 2 cuillères à soupe d'huile
 
-## Procédé
+### Procédé
 
 - Découper les tomates en quartiers et émincer l'échalote.
 - Faire revenir les tomates et l'échalote dans l'huile.
@@ -17,6 +17,6 @@
 - Quand l'eau est chaude, casser un œuf par personne dans le bouillon et servir.
 - Une fois la soupe servie, ajouter quelques feuilles de coriandre et de la ciboulette.
 
-## Variante
+### Variante
 
 On peut utiliser &frac12; d'oignon rouge à la place de l'échalote

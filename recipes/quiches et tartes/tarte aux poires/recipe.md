@@ -1,6 +1,6 @@
-# Tarte aux poires
+## Tarte aux poires
 
-## Ingrédients
+### Ingrédients
 
 * 1 pâte feuilletée
 * 5 poires
@@ -10,7 +10,7 @@
 * 1 jaune d'œuf
 * 1 cuillère à soupe d'armagnac
 
-## Procédé
+### Procédé
 
 1. Préchauffez le four à 180°C.
 - Garnissez un moule rond à bords hauts avec la pâte. Lavez, pelez, et coupez les poires en deux.

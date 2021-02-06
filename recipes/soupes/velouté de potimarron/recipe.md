@@ -1,6 +1,6 @@
-# Velouté de potimarron
+## Velouté de potimarron
 
-## Ingrédients
+### Ingrédients
 
 * 1kg de potimarron
 * 2 oignons
@@ -8,7 +8,7 @@
 * 1 litre d'eau
 * noix de muscade
 * sel, poivre
-## Procédé
+### Procédé
 
 1. Bien nettoyer le potimarron; gratter la peau mais ne pas l'éplucher. Ôter les graines. Couper le potimarron en morceau.
 - Peler les oignons et les émincer.

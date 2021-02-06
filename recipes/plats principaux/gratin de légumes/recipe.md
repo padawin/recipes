@@ -1,6 +1,6 @@
-# Gratin de legumes
+## Gratin de legumes
 
-## Ingrédients
+### Ingrédients
 
 * Viande hachée
 * Légumes (carottes, courgettes, aubergines...)
@@ -8,7 +8,7 @@
 * Crème fraiche ou béchamel
 * Quinoa
 
-## Procédé
+### Procédé
 
 1. Faire cuire le quinoa à l'eau.
 - Couper les légumes en petits morceaux.
@@ -21,6 +21,6 @@
 - Saupoudrer le fromage par dessus.
 - Enfourner à 180°C jusqu'à ce que le fromage soit fondu.
 
-## Truc
+### Truc
 
 Le quinoa peut être remplacé par du blé.

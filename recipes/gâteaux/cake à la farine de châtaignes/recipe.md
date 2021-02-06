@@ -1,6 +1,6 @@
-# Cake à la farine de châtaignes
+## Cake à la farine de châtaignes
 
-## Ingrédients
+### Ingrédients
 
 Utiliser un petit verre comme mesure.
 
@@ -11,7 +11,7 @@ Utiliser un petit verre comme mesure.
 * 3 œufs
 * 1 sachet de levure
 
-## Procédé
+### Procédé
 
 1. Préchauffer le four à 180&deg;C.
 - Dans un saladier, mettre la farine, la levure, l'huile, la crème et le sucre.

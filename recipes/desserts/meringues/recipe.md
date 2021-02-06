@@ -1,11 +1,11 @@
-# Meringues
+## Meringues
 
-## Ingrédients
+### Ingrédients
 
 * 4 blancs d'œufs
 * 250 g de sucre
 
-## Procédé
+### Procédé
 
 1. Préchauffez le four à 120°C (thermostat 4).
 - Battre les blancs en neige ferme.
@@ -16,7 +16,7 @@
 - Au bout d'une heure, on obtient des meringues rosées, craquantes et fondantes avec un cœur moelleux.
 - Décoller les meringues délicatement dès la sortie du four et laisser refroidir.
 
-## Truc
+### Truc
 
 Sortir les œufs du frigo un quart d'heure avant de les utiliser.
 

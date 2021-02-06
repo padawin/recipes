@@ -1,6 +1,6 @@
-# Soupe de châtaignes aux lardons
+## Soupe de châtaignes aux lardons
 
-## Ingrédients
+### Ingrédients
 
 * 1 carotte
 * 1 oignon
@@ -12,7 +12,7 @@
 * sel, poivre
 * 400g de lardons
 
-## Procédé
+### Procédé
 
 1. Éplucher la carotte, la couper en morceaux.
 - Peler et émincer l'oignon et l'ail.

@@ -1,6 +1,6 @@
-# Gratin d'été
+## Gratin d'été
 
-## Ingrédients
+### Ingrédients
 
 * 400g de pommes de terre
 * 400g de courgettes
@@ -14,7 +14,7 @@
 * 2 c. à soupe d'huile d'olive
 * 50g de comté
 
-## Procédé
+### Procédé
 
 1. Couper les pommes de terre et les courgettes en fines rondelles. Les cuire à la vapeur 20 minutes environ.
 - Pendant ce temps, émincer le poivron et l'oignon, écraser l'ail et couper les tomates en rondelles.

@@ -1,6 +1,6 @@
-# Beignets de morue
+## Beignets de morue
 
-## Ingrédients
+### Ingrédients
 
 * 600g de morue
 * 800g de pommes de terre
@@ -13,7 +13,7 @@
 * noix de muscade
 * gros sel
 
-## Procédé
+### Procédé
 
 1. Cuire les pommes de terre.
 - Cuire la morue pendant 10min.

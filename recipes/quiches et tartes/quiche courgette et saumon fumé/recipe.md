@@ -1,6 +1,6 @@
-# Quiche courgettes et saumon fumé
+## Quiche courgettes et saumon fumé
 
-## Ingrédients
+### Ingrédients
 
 * 1 rouleau pâte brisée
 * 3 courgettes
@@ -8,7 +8,7 @@
 * 3 œufs
 * 20 cl crème fraîche
 
-## Procédé
+### Procédé
 
 1. Râper les courgettes et les faire revenir à la poêle jusqu'à ce qu'elles aient rendu toute leur eau.
 - Étaler la pâte brisée dans un moule à tarte.

@@ -1,6 +1,6 @@
-# Biscuits chocolatés à la farine de châtaigne
+## Biscuits chocolatés à la farine de châtaigne
 
-## Ingrédients
+### Ingrédients
 
 * 100g de farine de sarrasin
 * 100g de farine de châtaigne (ou 50g + 50g de farine de blé)
@@ -11,7 +11,7 @@
 * 1 cuillère à café de bicarbonate de soude (ou levure chimique)
 * 50g de chocolat au lait
 
-## Procédé
+### Procédé
 
 1. Tamiser les farines et le bicarbonate dans un saladier.
 - Ajouter le sucre puis l'œuf et mixer quelques secondes.

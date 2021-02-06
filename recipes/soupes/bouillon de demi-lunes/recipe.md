@@ -1,12 +1,12 @@
-# Bouillon de demi-lunes
+## Bouillon de demi-lunes
 
-## Ingrédients
+### Ingrédients
 
 * Une boîte de demi-lunes ou autres pâtes farcies
 * Du bouillon de légumes ou de poule
 * un œuf par personne
 
-## Procédé
+### Procédé
 
 1. Faire bouillir une grosse casserole d'eau.
 - Ajouter le bouillon et les pâtes.

@@ -1,13 +1,13 @@
-# Croustillant savoyard
+## Croustillant savoyard
 
-## Ingrédients
+### Ingrédients
 
 * Feuilles de briques
 * Pommes de terre
 * Fromages au choix
 * noix et/ou lardons
 
-## Procédé
+### Procédé
 
 1. Faire cuire les pommes de terre à l'eau ou à la vapeur.
 - Si lardons, les faire revenir à la poêle.

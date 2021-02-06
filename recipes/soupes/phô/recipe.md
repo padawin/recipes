@@ -1,6 +1,6 @@
-# Phô (soupe vietnamienne)
+## Phô (soupe vietnamienne)
 
-## Ingrédients
+### Ingrédients
 
 * Queue de bœuf
 * Os à moelle
@@ -19,7 +19,7 @@
 * Quelques tiges de coriandre
 * Pâtes de riz
 
-## Procédé
+### Procédé
 
 1. Éplucher les carottes, gingembre et oignon.
 - Couper le gingembre en morceaux
@@ -33,6 +33,6 @@
 - Servir le bouillon avec la viande.
 - Ajouter de la coriandre et du persil hachés, du soja.
 
-## Truc
+### Truc
 
 Plus le bouillon mijote longtemps, meilleur il est.

@@ -1,10 +1,10 @@
-# Truffes
+## Truffes
 
 Pour 30 truffes environ
 
 Préparation 2h-2h30
 
-## Ingrédients
+### Ingrédients
 
 * 250g de chocolat noir à cuire
 * 100g de beurre
@@ -12,7 +12,7 @@ Préparation 2h-2h30
 * 2 cuillères à soupe de crème fraîche épaisse
 * enrobage (cacao en poudre, noix de coco râpée, vermicelles colorés, pistache écrasée, etc... ).
 
-## Procédé
+### Procédé
 
 1. Faire fondre à feux doux, dans une casserole, le chocolat cassé en morceaux avec le beurre, et mélanger jusqu'à obtention d'une pâte lisse.
 - Hors du feu, ajouter la crème fraîche et le sucre glace. Mélangez a nouveau.
@@ -22,7 +22,7 @@ Préparation 2h-2h30
 - Les rouler dans l'enrobage et les répartir dans un plat.
 - Laisser reposer au frigo.
 
-## Truc
+### Truc
 
 Utiliser du cacao en poudre amer, non sucré pour l'enrobage (Marque Van Houten par exemple).
 

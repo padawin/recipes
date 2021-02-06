@@ -1,6 +1,6 @@
-# Riz cantonais
+## Riz cantonais
 
-## Ingrédients
+### Ingrédients
 
 * Sauce d'huitres
 * Petits pois
@@ -9,7 +9,7 @@
 * Échalotes
 * Saucisses chinoises
 
-## Procédé
+### Procédé
 
 1. Mélanger les œufs et faire une omelette baveuse.
 - Faire cuire les petits pois.

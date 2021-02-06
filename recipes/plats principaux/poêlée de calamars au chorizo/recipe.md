@@ -1,8 +1,8 @@
-# Poêlée de calamars au chorizo
+## Poêlée de calamars au chorizo
 
 Pour 4 personnes
 
-## Ingrédients
+### Ingrédients
 
 * 1kg de petits calamars
 * 8 tranches de chorizo
@@ -11,7 +11,7 @@ Pour 4 personnes
 * 4 cuillères à soupe d'huile d'olive
 * sel, poivre
 
-## Procédé
+### Procédé
 
 1. Nettoyez les calamars:
 	* Séparez la tête et la poche,

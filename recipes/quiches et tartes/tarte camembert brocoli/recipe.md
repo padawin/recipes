@@ -1,8 +1,8 @@
-# Tarte camembert brocolis
+## Tarte camembert brocolis
 
 Cuisson 60 minutes
 
-## Ingrédients
+### Ingrédients
 
 * 4 cuillères a soupes de crème fraiche
 * 2 jaunes d'œufs
@@ -11,7 +11,7 @@ Cuisson 60 minutes
 * 1 pied de brocolis
 * 1 pâte brisée
 
-## Procédé
+### Procédé
 
 1. Faire pré-cuire la pâte au four (15-20 min a 210).
 - Couper le demi camembert en tranches.

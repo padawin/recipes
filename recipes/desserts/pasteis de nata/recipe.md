@@ -1,8 +1,8 @@
-# Pasteis de nata
+## Pasteis de nata
 
 Préparation pour une vingtaine de pasteis
 
-## Ingrédients
+### Ingrédients
 
 * 0,5L de lait
 * 250g de sucre
@@ -13,7 +13,7 @@ Préparation pour une vingtaine de pasteis
 * jus de citron
 * 1 pâte feuilletée
 
-## Procédé
+### Procédé
 
 1. Cuire le lait dans une casserole avec la gousse de vanille fendue en 2.
 - Mélanger dans un saladier la farine, le sucre et le sel.

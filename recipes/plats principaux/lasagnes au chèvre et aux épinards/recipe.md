@@ -1,6 +1,6 @@
-# Lasagne au chèvre et aux épinards
+## Lasagne au chèvre et aux épinards
 
-## Ingrédients
+### Ingrédients
 
 * 400g de lasagnes
 * 1kg d'épinards frais
@@ -13,7 +13,7 @@
 * muscade
 * sel, poivre
 
-## Procédé
+### Procédé
 
 1. Trier, laver et équeuter les épinards, puis les faire cuire dans l'huile d'olive pendant 15 minutes (il ne faut plus qu'il y ai d'eau), assaisonner.
 - Préparer une béchamel

@@ -1,6 +1,6 @@
-# Hummus
+## Hummus
 
-## Ingrédients
+### Ingrédients
 
 * 1 boîte de pois chiches cuit au naturel égouttés
 * 1 cuillère à soupe de purée de sésame ou graines de sésame écrasées
@@ -9,11 +9,11 @@
 * 1 à 2 gousses d'ail hachées
 * Sel et paprika
 
-## Procédé
+### Procédé
 
 1. Mettre tous les ingrédients dans un robot et les mixer.
 - Ajouter un peu d'eau pour que la purée soit bien homogène.
 
-## Suggestion
+### Suggestion
 
 Sympa sur des petits toasts!

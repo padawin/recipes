@@ -1,6 +1,6 @@
-# Accras de morue
+## Accras de morue
 
-## Ingrédients
+### Ingrédients
 
 * 250g de morue
 * 1 bouquet garni (thym, laurier...)
@@ -13,7 +13,7 @@
 * &frac12; cuillère à café de levure chimique
 * sel, poivre
 
-## Procédé
+### Procédé
 
 1. Cuire la morue au court bouillon avec le bouquet garni pendant 20min.
 - Enlever les arêtes et émietter la morue encore tiède (plus facile).

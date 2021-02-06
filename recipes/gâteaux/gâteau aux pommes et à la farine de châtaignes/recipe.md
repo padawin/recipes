@@ -1,6 +1,6 @@
-# Gâteau aux pommes et à la farine de châtaignes
+## Gâteau aux pommes et à la farine de châtaignes
 
-## Ingrédients
+### Ingrédients
 
 * 3 œufs
 * 1 verre de crème fraîche
@@ -12,7 +12,7 @@
 * 1 sachet de levure chimique
 * 2 pommes
 
-## Procédé
+### Procédé
 
 1. Préchauffer le four à 180&deg;C.
 - Battre les œufs et le sucre jusqu'à obtenir un mélange mousseux.

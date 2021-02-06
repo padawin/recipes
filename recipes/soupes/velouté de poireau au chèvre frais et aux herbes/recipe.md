@@ -1,6 +1,6 @@
-# Velouté de poireau au chèvre frais et aux herbes
+## Velouté de poireau au chèvre frais et aux herbes
 
-## Ingrédients
+### Ingrédients
 
 * 200g de poireaux
 * 1 oignon
@@ -12,7 +12,7 @@
 * (1 c. à café de graines de cumin)
 * Sel, poivre
 
-## Procédé
+### Procédé
 
 1. Éplucher, laver et émincer finement les poireaux et l'oignon.
 - Faire blanchir les poireaux à l'eau bouillante.

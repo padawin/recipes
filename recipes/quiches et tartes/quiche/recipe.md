@@ -1,6 +1,6 @@
-# Quiche
+## Quiche
 
-## Ingrédients
+### Ingrédients
 
 * 1 pâte feuilletée ou brisée
 * 3 œufs
@@ -8,7 +8,7 @@
 * Fromage râpé pour le dessus de la quiche
 * Sel, poivre
 
-### Épices et graines au choix
+#### Épices et graines au choix
 
 * curry
 * curcuma
@@ -17,7 +17,7 @@
 * sésame
 * ...
 
-### Garniture au choix
+#### Garniture au choix
 
 * 1 boîte de miettes de thon
 * Tomates concassées
@@ -34,7 +34,7 @@
 * tofu
 * ...
 
-## Procédé
+### Procédé
 
 1. Mélanger les œufs, la crème fraiche, le sel et le poivre.
 - Choisir un, deux ou trois ingrédients de chaque catégorie et les ajouter au mélange précédent.

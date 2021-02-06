@@ -1,6 +1,6 @@
-# Cake aux fruits secs
+## Cake aux fruits secs
 
-## Ingrédients
+### Ingrédients
 
 * 375 g de farine
 * 100 g de sucre
@@ -14,7 +14,7 @@
 * 125 g de noix décortiquées
 * 1 verre de lait
 
-## Procédé
+### Procédé
 
 1. Préchauffez le four à 120°C (thermostat 4).
 - Couper les figues en petits morceaux.

@@ -1,6 +1,6 @@
-# Tiramisu
+## Tiramisu
 
-## Ingrédients
+### Ingrédients
 
 * 3-4 œufs
 * 100g de sucre roux
@@ -10,7 +10,7 @@
 * chocolat en poudre
 * biscuits à la cuillère
 
-## Procédé
+### Procédé
 
 - Mélanger les jaunes d'œufs et les sucres roux et vanillé.
 - Ajouter la mascarpone et mélanger avec un fouet.
@@ -21,6 +21,6 @@
 	* du une couche de chocolat en poudre.
 - Mettre au frigo pendant une nuit.
 
-## Notes
+### Notes
 
 Le café peut être remplacé par du chocolat.

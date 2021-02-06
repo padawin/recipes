@@ -1,15 +1,15 @@
-# Galette de pommes de terre
+## Galette de pommes de terre
 
 Pour 8 personnes
 
-## Ingrédients
+### Ingrédients
 
 * 1kg de pommes de terre
 * 4 faisselles de chèvre individuelles
 * Farine
 * 100/125g de beurre
 
-## Procédé
+### Procédé
 
 1. Faire cuire les pommes de terre à l'eau.
 - Les éplucher et les écraser grossièrement à l'aide d'une fourchette.

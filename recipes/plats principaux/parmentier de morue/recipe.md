@@ -1,4 +1,4 @@
-# Parmentier de morue
+## Parmentier de morue
 
 Pour 6 personnes
 
@@ -6,7 +6,7 @@ Préparation 20 minutes
 
 Cuisson 30 minutes
 
-## Ingrédients
+### Ingrédients
 
 * 500g de Morue
 * 1kg de pommes de terre
@@ -14,7 +14,7 @@ Cuisson 30 minutes
 * 50g de beurre
 * 100g de gruyère râpé
 
-## Procédé
+### Procédé
 
 1. Faire pocher la morue.
 - Préparer une béchamel.

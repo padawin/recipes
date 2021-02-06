@@ -1,6 +1,6 @@
-# Fondant au chocolat
+## Fondant au chocolat
 
-## Ingrédients
+### Ingrédients
 
 * 200g de chocolat noir
 * 125g de beurre salé aux cristaux de sel
@@ -8,7 +8,7 @@
 * 125g de sucre
 * 3 oeufs
 
-## Étapes
+### Étapes
 
 1. Mélanger dans un saladier les oeufs et le sucre.
 - Ajouter la farine progressivement tout en remuant ou bien en verser un peu, bien mélanger le tout et recommencé jusqu'à avoir versé toute la farine (ceci afin d'éviter la formation de grumeaux).

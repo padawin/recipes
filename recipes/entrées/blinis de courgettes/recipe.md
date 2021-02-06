@@ -1,6 +1,6 @@
-# Blinis de courgettes
+## Blinis de courgettes
 
-## Ingrédients
+### Ingrédients
 
 * 4 courgettes
 * 2 c. à café de purée d'ail
@@ -8,7 +8,8 @@
 * 3 œufs
 * 20cl de lait de soja
 * Persil haché
-## Procédé
+
+### Procédé
 
 1. Râper les courgettes et presser avec les mains pour bien essorer.
 - Mélanger tous les ingrédients dans un saladier. Saler.

@@ -1,6 +1,6 @@
-# Tiramisu au spéculoos
+## Tiramisu au spéculoos
 
-## Ingrédients
+### Ingrédients
 
 * 250g de mascarpone
 * 100g de sucre
@@ -9,7 +9,7 @@
 * café fort + rhum
 * spéculoos
 
-## Procédé
+### Procédé
 
 1. Séparer les jaunes des blancs.
 - Mélanger les jaunes avec le sucre et le sucre vanillé.

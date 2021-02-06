@@ -1,6 +1,6 @@
-# Croziflette
+## Croziflette
 
-## Ingrédients
+### Ingrédients
 
 * 1 oignon
 * Des crozets (natures + sarrasin)
@@ -9,7 +9,7 @@
 * Crème fraiche
 * Parmesan
 
-## Procédé
+### Procédé
 
 1. Faire cuire les crozets à la casserole.
 - Beurrer un plat à four.

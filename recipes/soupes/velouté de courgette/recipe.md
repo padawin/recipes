@@ -1,12 +1,12 @@
-# Velouté de courgette
+## Velouté de courgette
 
-## Ingrédients
+### Ingrédients
 
 * 2 courgettes
 * crème fraîche
 * menthe fraîche
 
-## Procédé
+### Procédé
 
 1. Cuire les courgettes à la vapeur, puis les mixer avec la crème et la menthe.
 - Saler, poivrer.

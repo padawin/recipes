@@ -1,6 +1,6 @@
-# Crumble au poulet
+## Crumble au poulet
 
-## Ingrédients
+### Ingrédients
 
 * 4 beaux filets de poulet
 * Légumes au choix: Poireaux, blettes, épinards, chou...
@@ -11,7 +11,7 @@
 * 40g de parmesan râpé
 * 60ml d'huile d'olive
 
-## Procédé
+### Procédé
 
 1. Cuire les légumes (émincés) et les filet de poulet à la vapeur ou à l'étouffée. Émincer le poulet.
 - Placer le tout dans un plat à gratin, ajouter la crème, saler et mélanger.
