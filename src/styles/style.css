@@ -121,6 +121,7 @@ ul#categories, ul#recipes {
 /* END RECIPES PAGE */
 
 /* RECIPE PAGE */
-#recipe {
+#recipe img {
+	float: right;
 }
 /* END RECIPE PAGE */
