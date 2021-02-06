@@ -1,4 +1,4 @@
-# Granola
+# Biscuits chocolatés à la farine de châtaigne
 
 ## Ingrédients
 
