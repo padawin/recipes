@@ -1,9 +1,11 @@
 #!/bin/env python3
 
+import errno
 import sys
 from os import listdir, makedirs
-from os.path import isdir, join
+from os.path import isdir, join, exists
 import markdown
+from common import get_recipe_image
 
 # Args[1]: path to src code
 # Args[2]: path to recipes
@@ -42,6 +44,17 @@ def _prepare_page(filename):
     return content
 
 
+def create_dir(file_path):
+    if exists(file_path):
+        return
+
+    try:
+        makedirs(file_path)
+    except OSError as exc:  # Guard against race condition
+        if exc.errno != errno.EEXIST:
+            raise
+
+
 def generate_recipe(category, recipe):
     content = _prepare_page("recipe_page.html")
     recipe_file = join(recipes_dir, category, recipe, "recipe.md")
@@ -49,7 +62,14 @@ def generate_recipe(category, recipe):
         recipe_content = markdown.markdown("".join(f.readlines()))
     content = content.replace("%%RECIPE%%", recipe_content)
 
-    makedirs(join(dest_dir, category, recipe))
+    recipe_image = get_recipe_image(recipes_dir, category, recipe)
+    recipe_image_tag = ""
+    if recipe_image is not None:
+        image_url = join("images/{}x{}x{}/".format(501, 334, 1), recipe_image)
+        recipe_image_tag = '<img alt="/{url}" src="/{url}" />'.format(url=image_url)
+    content = content.replace("%%RECIPE_IMAGE%%", recipe_image_tag)
+
+    create_dir(join(dest_dir, category, recipe))
     with open(join(dest_dir, category, recipe, "index.html"), "w") as f:
         f.write(content)
 
@@ -72,6 +92,11 @@ def generate_category(category):
         url = join(category, recipe)
         name = recipe.capitalize()
         recipe_html = recipe_template.replace("%%URL%%", url)
+        recipe_image = get_recipe_image(recipes_dir, category, recipe)
+        image_url = "images/blank.png"
+        if recipe_image is not None:
+            image_url = join("images/{}x{}x{}/".format(200, 200, 1), recipe_image)
+        recipe_html = recipe_html.replace("%%IMAGE_URL%%", image_url)
         recipe_html = recipe_html.replace("%%NAME%%", name)
         recipes_html.append(recipe_html)
 
@@ -90,7 +115,7 @@ def generate_categories():
         if not isdir(join(recipes_dir, cat)):
             continue
 
-        makedirs(join(dest_dir, cat))
+        create_dir(join(dest_dir, cat))
 
         generate_category(cat)
 

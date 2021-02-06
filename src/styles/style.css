@@ -121,6 +121,15 @@ ul#categories, ul#recipes {
 /* END RECIPES PAGE */
 
 /* RECIPE PAGE */
-#recipe {
+#recipe img {
+	float: right;
+}
+
+#recipe ul {
+	line-height: 30px;
+}
+
+#recipe ol {
+	line-height: 40px;
 }
 /* END RECIPE PAGE */
