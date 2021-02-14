@@ -16,11 +16,12 @@ recipes_dir = sys.argv[2]
 dest_dir = sys.argv[3]
 
 
-def generate_common(content):
+def generate_common(content, title):
     header = join(src_dir, "_header.html")
     footer = join(src_dir, "_footer.html")
     with open(header) as f:
         header_content = "".join(f.readlines())
+        header_content = header_content.replace("%%PAGE_TITLE%%", title)
         content = content.replace("%%HEADER%%", header_content)
 
     with open(footer) as f:
@@ -38,9 +39,9 @@ def _read_content(filename):
     return content
 
 
-def _prepare_page(filename):
+def _prepare_page(filename, title):
     content = _read_content(filename)
-    content = generate_common(content)
+    content = generate_common(content, title)
     return content
 
 
@@ -55,8 +56,10 @@ def create_dir(file_path):
             raise
 
 
-def generate_recipe(category, recipe):
-    content = _prepare_page("recipe_page.html")
+def generate_recipe(category, recipe, title):
+    category_name = category.capitalize()
+    recipe_name = recipe.capitalize()
+    content = _prepare_page("recipe_page.html", "{} - {} - {}".format(recipe_name, category_name, title))
     recipe_file = join(recipes_dir, category, recipe, "recipe.md")
     with open(recipe_file) as f:
         recipe_content = markdown.markdown("".join(f.readlines()))
@@ -74,10 +77,10 @@ def generate_recipe(category, recipe):
         f.write(content)
 
 
-def generate_category(category):
-    content = _prepare_page("category_page.html")
-
+def generate_category(category, title):
     name = category.capitalize()
+    content = _prepare_page("category_page.html", "{} - {}".format(name, title))
+
     content = content.replace("%%NAME%%", name)
 
     recipe_template = _read_content("_recipe_list_item.html")
@@ -87,7 +90,7 @@ def generate_category(category):
         if not isdir(join(recipes_dir, category, recipe)):
             continue
 
-        generate_recipe(category, recipe)
+        generate_recipe(category, recipe, title)
 
         url = join(category, recipe)
         name = recipe.capitalize()
@@ -107,7 +110,8 @@ def generate_category(category):
 
 
 def generate_categories():
-    content = _prepare_page("categories_page.html")
+    title = "Mes recettes"
+    content = _prepare_page("categories_page.html", title)
     category_template = _read_content("_category.html")
 
     categories_html = []
@@ -117,7 +121,7 @@ def generate_categories():
 
         create_dir(join(dest_dir, cat))
 
-        generate_category(cat)
+        generate_category(cat, title)
 
         name = cat.capitalize()
         category_html = category_template.replace("%%URL%%", cat)
