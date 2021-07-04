@@ -8,6 +8,7 @@
 * Ciboulette
 * 2 œufs
 * 2 cuillères à soupe d'huile
+* Sauce de poisson
 
 ### Procédé
 
